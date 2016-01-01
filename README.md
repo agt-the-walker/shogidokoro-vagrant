@@ -7,7 +7,7 @@ running into dependency hell on your local host.
 # Requirements
 
 * [Git](http://git-scm.com/)
-* [Vagrant](https://www.vagrantup.com/)
+* [Vagrant](https://www.vagrantup.com/) 1.5+
 * [X Server](http://www.freedesktop.org/wiki/Software/Xserver/)
 
 # Walkthrough
